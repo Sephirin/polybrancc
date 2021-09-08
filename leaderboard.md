@@ -3,6 +3,8 @@
 Welcome to the leaderboard!<br>
 Dont see your score? Please open a issue [here](https://github.com/3kh0/polybranch/issues)<br>
 
+[Back to game](https://3kh0.github.io/polybranch)
+
 Name | Score | Level
 -----|-------|------
 ProGamerMove | 18,500 | L8
@@ -19,4 +21,5 @@ IamBad | 3,400 | L3
 Cookie | 3,200 | L3
 1st_place | 1,800 | L2
 e | 1,300 | L1
+69 | 900 | L1
 iDumb | 0 | L1
