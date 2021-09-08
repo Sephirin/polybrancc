@@ -1,8 +1,8 @@
 ## PolyBranch
 
-<img src="http://3kh0.github.io/polybranch/img/pic.png" style="border: 1px solid #646464; display: block; margin: 0px auto;">
+<img src="http://3kh0.github.io/polybranch/img/pic1.png" style="border: 1px solid #646464; display: block; margin: 0px auto;">
 
-<img src="http://branches/screenshot2.png" style="border: 1px solid #646464; display: block; margin: 0px auto;">
+<img src="http://3kh0.github.io/polybranch/img/pic2.png" style="border: 1px solid #646464; display: block; margin: 0px auto;">
 
 <a href="http://3kh0.github.io/polybranch">PolyBranch</a> is a minimalist 3D game. Avoid the branches protruding from the walls as you fly through the tunnel. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? Dive in, stay focused, and enjoy the ride!
 
