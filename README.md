@@ -8,7 +8,7 @@
 
 This game has been tested in all modern browsers, but runs best in Chrome. Please play in the latest version of Chrome for the best expericance!
 
-###Open Source!
+### Open Source!
 
 Game core built with [Processing.js](http://processingjs.org/)
 
