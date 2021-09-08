@@ -3,9 +3,10 @@
 Welcome to the leaderboard!<br>
 Dont see your score? Please open a issue [here](https://github.com/3kh0/polybranch/issues)<br>
 
-Name | Score | Level
------|-------|------
-NatetheG14 | 14,500 | L7
-3kh0 | 11,300 | L6
-none | none | none |
-none | none | none |
+Place | Name | Score | Level
+-----|-----|-------|------
+1 | NatetheG14 | 14,500 | L7
+2| 3kh0 | 11,300 | L6
+3 | N0tf@r | 8,100 | L5
+4 | iDumb | 0 | L1
+
