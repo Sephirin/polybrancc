@@ -6,7 +6,7 @@
 
 <a href="http://3kh0.github.io/polybranch">PolyBranch</a> is a minimalist 3D game. Avoid the branches protruding from the walls as you fly through the tunnel. Dodging branches may seem easy at first, but how long can you hold up as you approach terminal velocity? Dive in, stay focused, and enjoy the ride!
 
-This game has been tested in all modern browsers, but runs best in Chrome. Please play in the latest version of Chrome when judging! :)
+This game has been tested in all modern browsers, but runs best in Chrome. Please play in the latest version of Chrome for the best expericance!
 
 ###Open Source!
 
