@@ -5,18 +5,6 @@ Dont see your score? Please open a issue [here](https://github.com/3kh0/polybran
 
 [Back to polybranch](https://3kh0.github.io/polybranch)
 
-										   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5502194389395403"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-fb+5w+4e-db+86"
-     data-ad-client="ca-pub-5502194389395403"
-     data-ad-slot="4975843246"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ## How does it work?
 
 We only display the top 10 on the leaderboard. If we displayed every score this page would be too long. <br>
