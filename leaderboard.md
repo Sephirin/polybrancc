@@ -8,7 +8,7 @@ Dont see your score? Please open a issue [here](https://github.com/3kh0/polybran
 ## How does it work?
 
 We only display the top 10 on the leaderboard. If we displayed every score this page would be too long. <br>
-In order for your score to be placed on here please open a issue [here](https://github.com/3kh0/polybranch/issues/new). Note this requires a GitHub account.
+In order for your score to be placed on here please fill out [this form](https://form.jotform.com/212516068759059).
 
 Place | Name | Score | Level
 ------|-----|-------|------
